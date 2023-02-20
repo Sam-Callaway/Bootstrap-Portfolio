@@ -1,1 +1,13 @@
+#ProfilePic{
 
+    width: 500px;
+
+}
+
+.nav-link img{
+    height: 20px;
+}
+
+.nav-link img:hover{
+    box-shadow: 2px 2px 2px blue;
+}
